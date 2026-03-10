@@ -1,1 +1,2 @@
 API_TOKEN=<not_secret>
+//upgrade
